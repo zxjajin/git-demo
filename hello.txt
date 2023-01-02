@@ -7,7 +7,6 @@ hello AJin hello git!
 hello AJin hello git!
 hello AJin hello git!
 hello AJin hello git!
-<<<<<<< HEAD
 ello AJin hello git!  master test
+hello aaa
 hhhhello AJin hello git! hot-fix test
->>>>>>> hot-fix
